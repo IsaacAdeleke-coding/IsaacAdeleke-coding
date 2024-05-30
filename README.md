@@ -7,8 +7,9 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [Foundations Of Cybersecurity](https://coursera.org/share/1550e5307bc1b890bbb0612ff2e5a2cf)
 - [Play It Safe: Manage Security Risks](https://coursera.org/share/b3728129c1a252f0f48242df60e3a9aa)
+
+- [Foundations Of Cybersecurity](https://coursera.org/share/1550e5307bc1b890bbb0612ff2e5a2cf)
 
 
 
