@@ -1,9 +1,10 @@
 <h1>Hi, I'm Isaac! <br/><a href="https://github.com/IsaacAdeleke-coding">Software Engineer Programmer</a>, <a href="https://www.linkedin.com/in/isaac-adeleke/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- [Number Guessing Challenge](https://github.com/IsaacAdeleke-coding/Number-Guessing-Challenge)
-- [Calculator](https://github.com/IsaacAdeleke-coding/Calculator)
 
+- [Number Guessing Challenge](https://github.com/IsaacAdeleke-coding/Number-Guessing-Challenge)
+
+- [Calculator](https://github.com/IsaacAdeleke-coding/Calculator)
 
 <h2>👨‍💻 Certifications:</h2>
 
