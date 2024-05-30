@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - [Number Guessing Challenge](https://github.com/IsaacAdeleke-coding/Number-Guessing-Challenge)
+- [Calculator](https://github.com/IsaacAdeleke-coding/Calculator)
 
 
 <h2>👨‍💻 Certifications:</h2>
