@@ -12,6 +12,19 @@
 
 - [Foundations Of Cybersecurity](https://coursera.org/share/1550e5307bc1b890bbb0612ff2e5a2cf)
 
+- [Connect and Protect: Networks and Network Security](https://coursera.org/share/371a3c625dd91e3d70800bd289413aa9)
+
+- [Tools of the Trade: Linux and SQL](https://coursera.org/share/c8ba5e7f9526c86adf4b6d5ecba88e88)
+
+- [Assets, Threats, and Vulnerabilities](https://coursera.org/share/e5a91ddc2ef200009bf0fa69fafa8f53)
+
+- [Sound the Alarm: Detection and Response](https://coursera.org/share/56204e6ae94e0c4fa0b47fd182abcc72)
+
+- [Automate Cybersecurity Tasks with Python](https://coursera.org/share/a16e2b0ca6426f5da24ef5bc2a19be33)
+
+- [Put It to Work: Prepare for Cybersecurity Jobs](https://coursera.org/share/2c64b0ba4f2e6140ff767eb7f6ffe6f7)
+
+- [Google Cybersecurity Certificate](https://coursera.org/share/2da59912418d8241318b149d44f112b4)
 
 
 
